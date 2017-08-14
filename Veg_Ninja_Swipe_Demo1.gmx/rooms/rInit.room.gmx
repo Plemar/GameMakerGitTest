@@ -52,6 +52,10 @@
   </views>
   <instances>
     <instance objName="oInit" x="512" y="320" name="inst_796B98DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oInit" x="384" y="512" name="inst_1888F72E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oInit" x="800" y="160" name="inst_AF1B9FE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oInit" x="96" y="96" name="inst_3E764C6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oInit" x="864" y="576" name="inst_D12373DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
